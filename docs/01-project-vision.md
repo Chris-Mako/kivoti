@@ -10,6 +10,7 @@ Die Erfassung von Mahlzeiten ist oft zeitaufwendig und erfordert viele manuelle 
 
 Kivoti soll eine einfache, schnelle und benutzerfreundliche Alternative sein.
 
+
 ## Ziel
 
 Der Nutzer soll seine Ernährung möglichst schnell dokumentieren können.
@@ -21,6 +22,7 @@ Der Fokus liegt auf:
 * übersichtlicher Darstellung
 * Offline-Nutzung
 * fairen Funktionen ohne ständige Verkaufsaufforderungen
+
 
 ## Langfristige Vision
 
